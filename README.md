@@ -4,7 +4,7 @@ Código de conducta miembros [buenos-aires-tech](https://buenos-aires-tech.slack
 
 ## Objetivo
 
-Nuestro grupo busca acercar más a la comunidad de Sistema de Información en general. Esto incluye sistemas en todas sus variantes: ingenieros, programadores, analistas, diseñadores, infra/devops, organizadores de eventos, oportunidades, etc...
+Nuestro grupo busca acercar más a la comunidad de Sistema de Información en general. Esto incluye sistemas en todas sus variantes: ingenieros, científicos de la computación, programadores, analistas, diseñadores, infra/devops, organizadores de eventos, oportunidades, etc...
 
 La idea es brindar una experiencia más directa y/o tiempo real (mientras sea posible) mediante el uso de un chat multi-propósito.
 
@@ -23,7 +23,7 @@ La idea es brindar una experiencia más directa y/o tiempo real (mientras sea po
 
 * Por favor leer [Slack: Getting-started-for-new-users](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) para un uso correcto de la tecnología.
 * Canales
- * Por lenguaje de programación: incluidos **java**, **scala**, **kotlin**, etc... La idea es tratar en el canal cualquier tema relacionado al lenguaje, incluyendo: preguntas/problemáticas, libraries & frameworks, etc... Por ahora, no recomendamos crear canales nuevos por librería ya que esto segmenta más la información y la posibilidad de generar mayor atención y obtener más ayuda.
+ * Por lenguaje de programación: incluidos **java**, **scala**, **kotlin**, etc... La idea es tratar en el canal cualquier tema relacionado al lenguaje, incluyendo: preguntas/problemáticas, libraries & frameworks, etc... Por ahora, no recomendamos crear canales nuevos por biblioteca/librería ya que esto segmenta más la información y la posibilidad de generar mayor atención y obtener más ayuda.
   * **meetup**: este canal permite organizar nuevos meetups y/o anunciar meetups externos.
   * **random**: este canal no tiene un tema específico y se puede usar libremente siempre que no afecte nuestro **código de conducta**.
 * Creación de canales, sólo admin users pueden crear canales. Consideramos que es la mejor forma de **no fragmentar la información**. De todas formas, se puede solicitar la creación de un nuevo canal y su creación quedara sujeta a evaluación.
