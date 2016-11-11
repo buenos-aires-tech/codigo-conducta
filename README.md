@@ -26,6 +26,7 @@ La idea es brindar una experiencia mas directa y/o tiempo real (mientras sea pos
  * Por lenguaje de programación: incluidos **java**, **scala**, **kotlin**, etc... La idea es tratar en el canal cualquier tema relacionado al lenguaje, incluyendo: preguntas/problematicas, libraries & frameworks, etc... Por ahora, no recomendamos crear canales nuevos por libreria ya que esto segmenta mas la información y la posibilidad de generar mayor atención y obtener mas ayuda.
   * **meetup**: este canal permite organizar nuevos meetups y/o anunciar meetups externos
   * **random**: este canal no tiene un tema especifico y se puede usar libremente siempre que no afecte nuestro **código de conducta**
+* Creación de canales, solo admin users pueden crear canales. Consideramos que es la mejor forma de **no fragmentar la información**. De todas formas, se puede solicitar la creación de un nuevo canal y su creación quedara sujeta a evaluación.
 * [Github](https://github.com/buenos-aires-tech) también esta disponible para uso libre, incluyendo ejemplos, proyectos en común, etc
 
 ## Infracción
