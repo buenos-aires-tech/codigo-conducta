@@ -4,7 +4,7 @@ Código de conducta miembros [buenos-aires-tech](https://buenos-aires-tech.slack
 
 ## Objetivo
 
-Nuestro grupo busca acercar más a la comunidad de Sistemas de Información en general. Esto incluye sistemas en todas sus variantes: ingenieros, científicos de la computación, programadores, analistas, diseñadores, infra/devops, organizadores de eventos, oportunidades, etc...
+Nuestro grupo busca acercar más a la comunidad Informática en general. Esto incluye: ingenieros, científicos de la computación, programadores, analistas, diseñadores, infra/devops, organizadores de eventos, oportunidades, etc...
 
 La idea es brindar una experiencia más directa y/o tiempo real (mientras sea posible) mediante el uso de un chat multi-propósito.
 
