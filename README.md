@@ -18,6 +18,7 @@ La idea es brindar una experiencia más directa y/o tiempo real (mientras sea po
  * Evitar todo tipo de acoso (género, región, tecnología, etc...).
  * Evitar escribir/enviar mensajes sin relación al grupo (conocidos como spam/offtopic/etc). Mensajes deben ser clasificados de acuerdo al canal que correspondan.
  * Evitar segmentar la información y siempre usar el canal global. Ejemplo: Alguna pregunta sobre Spring, debe ir en el canal **java** y no en un nuevo canal.
+ * Utilizar el canal **oportunidades** para comunicación de ofertas laborales o similar. El uso de otro canal esta estrictamente prohibido.
 
 ## Uso de la tecnología
 
@@ -25,7 +26,8 @@ La idea es brindar una experiencia más directa y/o tiempo real (mientras sea po
 * Canales
  * Por lenguaje de programación: incluidos **java**, **scala**, **kotlin**, etc... La idea es tratar en el canal cualquier tema relacionado al lenguaje, incluyendo: preguntas/problemáticas, libraries & frameworks, etc... Por ahora, no recomendamos crear canales nuevos por biblioteca/librería ya que esto segmenta más la información y la posibilidad de generar mayor atención y obtener más ayuda.
   * **meetup**: este canal permite organizar nuevos meetups y/o anunciar meetups externos.
-  * **random**: este canal no tiene un tema específico y se puede usar libremente siempre que no afecte nuestro **código de conducta**.
+  * **random**/**general**: este canal no tiene un tema específico y se puede usar libremente siempre que no afecte nuestro **código de conducta**.
+  * **oportunidades**: canal especialmente creado para ofrecer y/o responder a oportunidades laborales.
 * Creación de canales, sólo admin users pueden crear canales. Consideramos que es la mejor forma de **no fragmentar la información**. De todas formas, se puede solicitar la creación de un nuevo canal y su creación quedara sujeta a evaluación.
 * [Github](https://github.com/buenos-aires-tech) también esta disponible para uso libre, incluyendo ejemplos, proyectos en común, etc...
 
